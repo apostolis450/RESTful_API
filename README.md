@@ -1,7 +1,7 @@
 # RESTful_API
 ###
 A simple rest API using FLASK framework implementing **get**-**put**-**update**-**delete** that  
-talks with a video (youtube-like) database.
+communicates with a video (youtube-like) database.
 ## Instructions:
 ###  
 1. Install dependencies
