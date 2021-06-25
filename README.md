@@ -5,8 +5,8 @@ communicates with a video (youtube-like) database.
 ## Instructions:
 ###  
 1. Install dependencies
-**pip3 install -r requirements.txt**
+->**pip3 install -r requirements.txt**
 2. Run server 
-**python3 main.py**
+->**python3 main.py**
 3. Run test and modify it at your convenience 
-**python3 test.py**
+->**python3 test.py**
